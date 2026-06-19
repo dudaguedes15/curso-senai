@@ -1,0 +1,13 @@
+nome_aluno = input("Qual o seu nome?: ")
+turma = input("Qual a sua turma: ")
+materia = input("Qual materia: ")
+professor = input("O nome do professor: ")
+nota1 = int(input("Fale sua nota: "))
+nota2 = int(input("Fale sua nota: "))
+nota3 = int(input("Fale sua nota: "))
+media = (nota1 + nota2 + nota3)/3
+print(nome_aluno)
+print(turma)
+print(materia)
+print(professor)
+print(media)

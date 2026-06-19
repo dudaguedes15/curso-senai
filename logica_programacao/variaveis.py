@@ -1,4 +1,4 @@
-# variáveis -- armazenar valor, e esse valor pode variar.
+#variáveis -- armazenar valor, e esse valor pode variar.
 
 nome = "Giovani" 
 idade = 24
@@ -77,3 +77,4 @@ leu_livros = input("Você leu livros? S/N|: ")
 engraçado = input("S/N: ")
 print(leu_livros)
 print(engraçado)
+
